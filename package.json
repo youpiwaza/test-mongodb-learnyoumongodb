@@ -1,0 +1,24 @@
+{
+  "name": "test-mongodb-learnyoumongodb",
+  "version": "1.0.0",
+  "description": "La suite de petits tutos sur [mongodbay](https://www.npmjs.com/package/learnyoumongodb).",
+  "main": "01-myprogram.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youpiwaza/test-mongodb-learnyoumongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youpiwaza/test-mongodb-learnyoumongodb/issues"
+  },
+  "homepage": "https://github.com/youpiwaza/test-mongodb-learnyoumongodb#readme",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "mongodb": "^3.6.6",
+    "util": "^0.12.3"
+  }
+}
