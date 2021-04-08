@@ -25,3 +25,5 @@ learnyoumongodb verify 01-program.js
 ## Notes
 
 Pour `01-program.js` > La connexion à été optimisée :)
+
+La vraie doc : [doc](http://mongodb.github.io/node-mongodb-native/3.6/api/)
