@@ -2,6 +2,8 @@
 
 La suite de petits tutos sur [LE VRAI](https://github.com/evanlucas/learnyoumongo) ~~[mongodbay](https://www.npmjs.com/package/learnyoumongodb)~~.
 
+![yay](./gné-fini.jpg)
+
 ## How to / Comment ksa marche ?
 
 ```bash
