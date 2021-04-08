@@ -1,0 +1,18 @@
+
+{
+    "result":
+        {"ok":1,"n":4},
+        "ops":[
+            {"name":"Une test d'ajout multiples","_id":"606f032548b8202ad83e903e"},
+            {"name":"Une test d'ajout multiples 2","_id":"606f032548b8202ad83e903f"},
+            {"name":"Une test d'ajout multiples 3","_id":"606f032548b8202ad83e9040"},
+            {"name":"Une test d'ajout multiples 4","_id":"606f032548b8202ad83e9041"}
+        ],
+        "insertedCount":4,
+        "insertedIds":{   
+                "0":"606f032548b8202ad83e903e",
+                "1":"606f032548b8202ad83e903f",
+                "2":"606f032548b8202ad83e9040",
+                "3":"606f032548b8202ad83e9041"
+        }
+}
