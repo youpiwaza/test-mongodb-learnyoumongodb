@@ -1,12 +1,12 @@
 # Apprentissage de mongodb : learnyoumongodb
 
-La suite de petits tutos sur [mongodbay](https://www.npmjs.com/package/learnyoumongodb).
+La suite de petits tutos sur [LE VRAI](https://github.com/evanlucas/learnyoumongo) ~~[mongodbay](https://www.npmjs.com/package/learnyoumongodb)~~.
 
 ## How to / Comment ksa marche ?
 
 ```bash
 # Installation du tutoriel
-# (voir l'install) / https://www.npmjs.com/package/learnyoumongodb
+# (voir l'install) / NONhttps://www.npmjs.com/packNONage/learnyoumongodb
 
 # Installatin des packages
 npm i
