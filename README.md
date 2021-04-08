@@ -28,6 +28,7 @@ mongod --port 27017 --dbpath=./data
 
 ## Notes
 
-Pour `01-program.js` > La connexion à été optimisée :)
-
-La vraie doc : [doc](http://mongodb.github.io/node-mongodb-native/3.6/api/)
+- Les énoncés en propre en .md sont [dans le repo](https://github.com/evanlucas/learnyoumongo/blob/master/exercises/find/problem.md).
+  - Surtout si il y a des problèmes d'affichage des traductions
+- Pour `01-program.js` > La connexion à été optimisée :)
+- La vraie doc : [doc](http://mongodb.github.io/node-mongodb-native/3.6/api/)
