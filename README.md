@@ -16,10 +16,14 @@ node 01-program.js
 ## Pour executer les commandes du tutoriel
 # Enoncé & choix de l'exercice
 learnyoumongodb
-# Tester
-learnyoumongodb run 01-program.js
-# Faire valider
-learnyoumongodb verify 01-program.js
+# Tester que le setup est bon
+##  SI KO > Ajouter mongoDb au PATH
+learnyoumongodb verify
+
+# Lancer le serveur 
+## ATTEN PUTAIN DE TION
+## EXECUTER DANS UN TERMINAL A COTE ET LAISSER TOURNER yay fun
+mongod --port 27017 --dbpath=./data
 ```
 
 ## Notes
