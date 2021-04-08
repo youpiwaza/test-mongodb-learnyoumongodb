@@ -62,3 +62,6 @@ typings/
 
 # archives
 *.zip
+
+# trucs en lock
+*lock*
